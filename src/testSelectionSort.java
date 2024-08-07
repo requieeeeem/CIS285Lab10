@@ -8,7 +8,7 @@ import org.junit.Test;
 		public void test() {
 			//testPositive();
 			//testNegative();
-			//testMixed();
+			testMixed();
 			testDuplicates();
 		}
 		public testSelectionSort() {
