@@ -10,6 +10,10 @@ import org.junit.Test;
 			//testNegative();
 			testMixed();
 			testDuplicates();
+			testPositive();
+			testNegative();
+			//testMixed();
+			//testDuplicates();
 		}
 		public testSelectionSort() {
 		}
