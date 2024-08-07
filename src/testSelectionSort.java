@@ -6,10 +6,10 @@ import org.junit.Test;
 		private SelectionSort temp1;
 		@Test
 		public void test() {
-			//testPositive();
-			//testNegative();
+			testPositive();
+			testNegative();
 			//testMixed();
-			testDuplicates();
+			//testDuplicates();
 		}
 		public testSelectionSort() {
 		}
